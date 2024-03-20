@@ -1,16 +1,23 @@
 Project Name: Sentiment Analysis
 
 Description:
+
 The sentiment analysis project on Amazon product reviews is designed to automatically analyze and categorize the sentiment expressed in customer reviews. By utilizing spaCy and TextBlob libraries, the project determines whether a review is positive, negative, or neutral, providing valuable insights into customer opinions. This project is important as it allows businesses and researchers to gain a deeper understanding of customer sentiments towards products, services, or brands without manually reading each review. With the ability to process a large volume of reviews efficiently, the project aids in decision-making processes, marketing strategies, and product improvements based on customer feedback.
 
 Table of Contents:
+
 Project Name
+
 Description
+
 Installation
+
 Usage
+
 Credits
 
 Installation:
+
 To install and run the sentiment analysis project locally, follow these steps:
 Clone this repository to your local machine using the following command:
 git clone https://github.com/YommyBadd/sentiment-analysis.git
@@ -31,6 +38,7 @@ After running the script, the sentiment analysis results will be displayed.
 Now you have the sentiment analysis project installed and running locally on your machine.
 
 Usage:
+
 After installing the sentiment analysis project locally, you can use it to analyze the sentiment of product reviews. Here's how to use it:
 Run the Script:
 Open your terminal or command prompt.
@@ -50,12 +58,13 @@ The program will process each review and provide sentiment analysis results.
 Now you can use the sentiment analysis project to analyze the sentiment of product reviews and gain insights into customer opinions.
 
 Credits:
+
 This sentiment analysis project was developed by:
 
 Sanana M
 GitHub: SananaM
 
-Nazaam D
+Nizaam D
 GitHub: NizaamD
 
 We would like to extend our gratitude to all contributors who helped in the development and testing of this project. Without their valuable contributions, this project would not have been possible. Thank you!
