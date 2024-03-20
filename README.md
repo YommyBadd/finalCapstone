@@ -3,7 +3,7 @@ Project Name: Sentiment Analysis
 Description:
 The sentiment analysis project on Amazon product reviews is designed to automatically analyze and categorize the sentiment expressed in customer reviews. By utilizing spaCy and TextBlob libraries, the project determines whether a review is positive, negative, or neutral, providing valuable insights into customer opinions. This project is important as it allows businesses and researchers to gain a deeper understanding of customer sentiments towards products, services, or brands without manually reading each review. With the ability to process a large volume of reviews efficiently, the project aids in decision-making processes, marketing strategies, and product improvements based on customer feedback.
 
-Table of Contents
+Table of Contents:
 Project Name
 Description
 Installation
@@ -49,7 +49,7 @@ You can input multiple reviews at once or one review at a time.
 The program will process each review and provide sentiment analysis results.
 Now you can use the sentiment analysis project to analyze the sentiment of product reviews and gain insights into customer opinions.
 
-Credits
+Credits:
 This sentiment analysis project was developed by:
 
 Sanana M
