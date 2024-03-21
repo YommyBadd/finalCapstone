@@ -68,6 +68,7 @@ Here are some example screenshots of the sentiment analysis project in action ![
 This sentiment analysis project was developed by:
 
 Sanana M
+
 GitHub: SananaM
 
 Nizaam D
