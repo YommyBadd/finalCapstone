@@ -40,19 +40,28 @@ Now you have the sentiment analysis project installed and running locally on you
 Usage:
 
 After installing the sentiment analysis project locally, you can use it to analyze the sentiment of product reviews. Here's how to use it:
+
 Run the Script:
+
 Open your terminal or command prompt.
 Navigate to the project directory.
+
 Run the sentiment analysis script:
 python sentiment_analysis.py
+
 Input Product Reviews:
+
 The script will prompt you to input product reviews for sentiment analysis.
 You can enter your own text or use the sample reviews provided in the dataset.
+
 View Sentiment Analysis Results:
+
 The script will analyze the sentiment of each review.
 It will classify the sentiment as positive, negative, or neutral.
 The results will be displayed on the terminal/command prompt.
+
 Interact with the Program:
+
 You can input multiple reviews at once or one review at a time.
 The program will process each review and provide sentiment analysis results.
 Now you can use the sentiment analysis project to analyze the sentiment of product reviews and gain insights into customer opinions.
@@ -62,9 +71,11 @@ Credits:
 This sentiment analysis project was developed by:
 
 Sanana M
+
 GitHub: SananaM
 
 Nizaam D
+
 GitHub: NizaamD
 
 We would like to extend our gratitude to all contributors who helped in the development and testing of this project. Without their valuable contributions, this project would not have been possible. Thank you!
