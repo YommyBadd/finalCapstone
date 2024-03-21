@@ -60,7 +60,7 @@ Now you can use the sentiment analysis project to analyze the sentiment of produ
 
 ### **Example Screenshots:**
 
-Here are some example screenshots of the sentiment analysis project in action ![Picture of sentiment_analysis code block](C:\Users\DELL\OneDrive - Penta-A Services LTD\Attachments\Sentiment Analysis\Sentiment Analysis1)
+![Sentiment Analysis1](https://github.com/YommyBadd/finalCapstone/assets/154757933/3bd97cf4-6f17-40e6-91c5-0644b33897f4)
 
 
 ### **Credits:**
