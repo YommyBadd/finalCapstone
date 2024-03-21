@@ -6,21 +6,21 @@ The sentiment analysis project on Amazon product reviews is designed to automati
 
 ### **Table of Contents:**
 
--Project Name
+- Project Name
 
--Description
+- Description
 
--Installation
+- Installation
 
--Usage
+- Usage
 
--Credits
+- Credits
 
 ### **Installation:**
 
 To install and run the sentiment analysis project locally, follow these steps:
 -Clone this repository to your local machine using the following command:
-git clone [](https://github.com/YommyBadd/sentiment-analysis.git)
+git clone [Link to sentiment_analysis code block](https://github.com/YommyBadd/sentiment-analysis.git)
 -Change your current directory to the project folder:
 cd sentiment-analysis
 -Install Dependencies:
@@ -60,7 +60,7 @@ Now you can use the sentiment analysis project to analyze the sentiment of produ
 
 ### **Example Screenshots:**
 
-Here are some example screenshots of the sentiment analysis project in action ![](C:\Users\DELL\OneDrive - Penta-A Services LTD\Attachments\Sentiment Analysis\Sentiment Analysis1)
+Here are some example screenshots of the sentiment analysis project in action ![Picture of sentiment_analysis code block](C:\Users\DELL\OneDrive - Penta-A Services LTD\Attachments\Sentiment Analysis\Sentiment Analysis1)
 
 
 ### **Credits:**
@@ -68,7 +68,6 @@ Here are some example screenshots of the sentiment analysis project in action ![
 This sentiment analysis project was developed by:
 
 Sanana M
-
 GitHub: SananaM
 
 Nizaam D
